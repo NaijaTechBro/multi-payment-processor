@@ -17,7 +17,7 @@ FLUTTERWAVE_SECRET_KEY=xxxxxxxxxxxxx
 MONNIFY_SECRET_KEY=xxxxxxxxxxxxx
 MONNIFY_API_KEY=xxxxxxxxxxxxx
 ```
-*If you are using a hosting service like heroku, ensure to add the above details to your configuration variables.*
+*If you are using a hosting service like heroku or render ensure to add the above details to your configuration variables.*
 
 
 ```js
